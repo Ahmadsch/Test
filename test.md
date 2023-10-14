@@ -24,10 +24,9 @@ Wissenschaftliche Literatur dient mehreren wichtigen Zwecken in der akademischen
 1. **Verifizierbarkeit**: Wissenschaft basiert auf Beweisen und Nachprüfbarkeit. Durch wissenschaftliche Literatur können andere Forscher die Arbeit überprüfen, reproduzieren oder weiter darauf aufbauen.
 
 2. **Wissensaufbau**: Die Ergebnisse und Erkenntnisse aus einem Forschungsprojekt bauen oft auf vorheriger Forschung auf. Ohne Zugang zu dieser "Grundlagenforschung" wäre es schwer, Fortschritte zu erzielen.
+3. **Vermeidung von Redundanz**: Durch Kenntnis der bestehenden Literatur können Forscher vermeiden, bereits durchgeführte Experimente oder Studien zu wiederholen.
 
-3. **Bildung und Lehre**: Wissenschaftliche Artikel und Bücher sind oft ein integraler Bestandteil von Hochschulbildung und Weiterbildung.
-
-4. **Vermeidung von Redundanz**: Durch Kenntnis der bestehenden Literatur können Forscher vermeiden, bereits durchgeführte Experimente oder Studien zu wiederholen.
+4. **Bildung und Lehre**: Wissenschaftliche Artikel und Bücher sind oft ein integraler Bestandteil von Hochschulbildung und Weiterbildung.
 
 5. **Kritischer Diskurs**: Wissenschaftliche Publikationen ermöglichen eine kritische Auseinandersetzung mit Forschungsergebnissen, wodurch Theorien verfeinert oder sogar widerlegt werden können.
 
