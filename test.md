@@ -4,18 +4,21 @@
 Wissenschaftliche Literatur zu finden erfordert oft eine Kombination aus systematischer Suche und dem Nutzen spezifischer Tools und Ressourcen. Hier einige bewährte Methoden:
 
 1. **Universitätsbibliotheken**: Fast jede Universität hat eine eigene Bibliothek, die sowohl physische Bücher als auch Online-Ressourcen zur Verfügung stellt. Die meisten Universitätsbibliotheken haben auch Online-Kataloge, über die man nach spezifischen Büchern oder Artikeln suchen kann.
- 
-2. **Online-Datenbanken**: Plattformen wie Google Scholar, PubMed (für biomedizinische Literatur), JSTOR und viele andere bieten Zugang zu einer Vielzahl wissenschaftlicher Artikel.
 
-3. **Spezialisierte Datenbanken**: Je nach Fachgebiet gibt es oft spezialisierte Datenbanken. Beispiele hierfür sind PsycINFO für Psychologie, ERIC für Bildungsforschung oder EconLit für Wirtschaftswissenschaften.
+2. **Zitationen und Literaturverzeichnisse**: Wenn man bereits einen relevanten Artikel hat, kann das Literaturverzeichnis zu weiteren relevanten Quellen führen.
+
+3. **Kollegen und Dozenten**: Das Anfragen bei erfahrenen Forschern oder Kollegen kann oft zu wertvollen Empfehlungen führen.
+
+4. **Spezialisierte Datenbanken**: Je nach Fachgebiet gibt es oft spezialisierte Datenbanken. Beispiele hierfür sind PsycINFO für Psychologie, ERIC für Bildungsforschung oder EconLit für Wirtschaftswissenschaften.    
+
+5. **Online-Datenbanken**: Plattformen wie Google Scholar, PubMed (für biomedizinische Literatur), JSTOR und viele andere bieten Zugang zu einer Vielzahl wissenschaftlicher Artikel.
+
 
 4. **Konferenzen und Workshops**: Akademische Konferenzen veröffentlichen oft Proceedings oder Sammlungen von Artikeln, die im Rahmen der Konferenz präsentiert wurden.
 
-5. **Zitationen und Literaturverzeichnisse**: Wenn man bereits einen relevanten Artikel hat, kann das Literaturverzeichnis zu weiteren relevanten Quellen führen.
 
 6. **Fachzeitschriften**: Abhängig vom Fachgebiet gibt es oft Dutzende oder sogar Hunderte von Fachzeitschriften, die regelmäßig Artikel veröffentlichen.
 
-7. **Kollegen und Dozenten**: Das Anfragen bei erfahrenen Forschern oder Kollegen kann oft zu wertvollen Empfehlungen führen.
 
 **Wozu braucht man wissenschaftliche Literatur?**
 
